@@ -15,11 +15,10 @@
                            
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snxl&show_icons=true&theme=radical&show_icons=true"/>
 </div>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=snxl&show_icons=true&theme=radical&show_icons=true)](https://github.com/snxl/snxl)
 
 
 <div> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/snxl/snxl/blob/output/github-contribution-grid-snake.svg)
  
 </div>
