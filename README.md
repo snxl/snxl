@@ -1,4 +1,4 @@
-# 👩‍💻 Hi, i am Nicolas Soares Gomes
+# Hi, i am Nicolas Soares Gomes
   
  - 💻 Full Stack Web Development
   
